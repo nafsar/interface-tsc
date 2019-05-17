@@ -1,0 +1,8 @@
+p{
+    font-family: Lato;
+    color:black;
+  }
+  span{color:red;}
+  div.play{ color:red;}
+  
+  div#app{color:rgba(40, 163, 3, 0.808); margin-top: 70px;}
